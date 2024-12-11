@@ -7,7 +7,7 @@ import Description from './components/Description';
 import Image from './components/Image';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import userImage from './assets/user.jpg';  // Import the image
+import userImage from './assets/user.jpg'; // Import the image
 
 const App = () => {
   const userName = "omar"; // Remplacez par votre prénom ou laissez vide
